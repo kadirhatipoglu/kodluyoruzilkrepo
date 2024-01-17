@@ -1,2 +1,1 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Patika.dev Eğitimlerinde Yapacağım Ödevler İçin Açtığım Repo
